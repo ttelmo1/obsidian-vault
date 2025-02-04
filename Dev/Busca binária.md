@@ -1,0 +1,2 @@
+#DSA 
+Dividindo repetidamente a lista ao meio e comparando o elemento buscado com o valor do meio. Se o valor for menor, a busca continua na metade inferior; se for maior, na metade superior. Esse processo se repete até encontrar o elemento ou reduzir a busca a um intervalo vazio.

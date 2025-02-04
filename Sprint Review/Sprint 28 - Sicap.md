@@ -1,0 +1,11 @@
+- Relatório de conciliação bancária - 10524
+	- Gerou alguns retrabalhos devido a complexidade de arquivos OFX na hora dos testes e necessitou de validações extras após o desenvolvimento para não permitir diversos erros do usuário
+- Detalhamento de Logs
+	- Equipe Dimensionada
+	- Documento Financeiro
+	- Folha Pagamento
+- Correção em relatório de apuração de desconto de produção - 10617
+- Melhoria no relatório de apuração de contratação de equipe II -  10810
+	- Mais dificil e demorada, foi modificada uma query consideravelmente grande, que precisou ser subdividida em queries menores para facilitar a legibilidade e manutenção futura
+- Correção no Módulo de registro de Logs - 10752
+	- Gerou alguns retrabalhos devido a inclusão de novas features após a PBI já estar em fase de testes
